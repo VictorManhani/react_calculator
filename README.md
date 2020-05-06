@@ -2,4 +2,4 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-emtpzg)
 
-![alt text](assets/calculator.PNG?raw=true "Title")
+![Calculator photo](https://raw.githubusercontent.com/VictorManhani/react_calculator/master/assets/calculator.png)
